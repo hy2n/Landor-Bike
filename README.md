@@ -4,9 +4,15 @@ LANDOR 라는 이름을 가진 전기자전거를 개발할때 사용했던 코�
 전방 충돌 알림, 속도 표시, 배터리 잔량 표시 ,온도 표시 ,도난방지 경보 등을 수행할 수 있던 자전거였습니다.
 
 [작동영상]
+
+
 https://youtube.com/shorts/j7RF6iSUpQs
+
 https://youtube.com/shorts/Atr_uvWlueA
+
 https://youtube.com/shorts/phaJVIMUvKY
+
+https://youtube.com/shorts/wjaYsG--P6o?feature=share
 
 ![1684574183638](https://github.com/softcreampie/Landor-Bike/assets/92370007/2bfd6144-a568-4e96-98b7-cb40c0ff2030)
 ![1684574177466](https://github.com/softcreampie/Landor-Bike/assets/92370007/bbffc3d1-836a-462a-82a9-b68d1d717068)
